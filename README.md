@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm João Carneiro</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaocarneiroo&label=Profile%20views&color=0e75b6&style=flat" alt="joaocarneiroo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaocarneiroo" alt="joaocarneiroo" /></a> </p>
 
 ## 🛠️ Skills
 
@@ -36,7 +33,7 @@
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarneiroo&show_icons=true&hide_border=true&theme=github_dark" alt="JoaoCarneiroo's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoCarneiroo.JoaoCarneiroo&theme=github_dark" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoCarneiroo.JoaoCarneiroo&theme=github_dark" alt="Profile Views">
 </div>
 
 ## 🔗 Links
