@@ -3,11 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaocarneiroo" alt="joaocarneiroo" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/joao_carneir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao_carneir0" height="30" width="40" /></a>
-</p>
-
 ## 🛠️ Skills
 
 ### Languages
@@ -37,11 +32,11 @@
 ## 📈 Stats
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=pataljunior&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=JoaoCarneiroo&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true&theme=github_dark" alt="profile trophies" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true" alt="PatalJunior's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoCarneiroo&show_icons=true&hide_border=true&theme=github_dark" alt="JoaoCarneiroo's GitHub Stats">
     <br />
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=pataljunior.pataljunior" alt="visitors">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoCarneiroo.JoaoCarneiroo&theme=github_dark" alt="visitors">
 </div>
 
 ## 🔗 Links
