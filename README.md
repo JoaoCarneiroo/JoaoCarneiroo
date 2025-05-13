@@ -8,6 +8,8 @@
 <a href="https://instagram.com/joao_carneir0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joao_carneir0" height="30" width="40" /></a>
 </p>
 
+## 🛠️ Skills
+
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -32,8 +34,18 @@
 ![node](https://img.shields.io/badge/Node-5FA04E?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaocarneiroo&show_icons=true&locale=en&layout=compact" alt="joaocarneiroo" /></p>
+## 📈 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaocarneiroo&show_icons=true&locale=en" alt="joaocarneiroo" /></p>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=pataljunior&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=pataljunior&show_icons=true&hide_border=true" alt="PatalJunior's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pataljunior.pataljunior" alt="visitors">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaocarneiroo&" alt="joaocarneiroo" /></p>
+## 🔗 Links
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:joaomiko25@gmail.com)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JoaoCarneiroo)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/pataljunior/](https://www.instagram.com/joao_carneir0/))
